@@ -17,7 +17,7 @@ const ReviewItem = (props) => {
             <button
                 className="main-button"
                 onClick={() => props.removeProduct(key)}
-            >Remove </button>
+            >Remove</button>
         </div>
     );
 };
